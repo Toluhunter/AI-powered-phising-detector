@@ -1,0 +1,3 @@
+[submodule "train"]
+	path = train
+	url = git@github.com:Toluhunter/AI-powered-phising-detector-train.git
